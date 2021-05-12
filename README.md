@@ -49,7 +49,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/dulanji-cooray-a93747198/"><img alt="LinkedIn"></a>
-
+<a href="https://www.linkedin.com/in/dulanji-cooray-a93747198/"><img alt="LinkedIn" src="https://img.shields.io/badge/https://www.linkedin.com/in/dulanji-cooray-a93747198/-blue?style=flat-square&logo=linkedin"></a>
 <a href="mddulanjicooray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mddulanjicooray@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
