@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/dulanji-cooray-a93747198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dulanji%20cooray%-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/dulanji-cooray-a93747198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dulanji%20cooray%20-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mddulanjicooray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mddulanjicooray@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
