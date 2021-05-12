@@ -29,7 +29,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
@@ -53,4 +53,14 @@
 <a href="mddulanjicooray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mddulanjicooray@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+- 📫 How to reach me:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/Anish.Ghimire603?ref=bookmarks"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
+<a href = "https://www.instagram.com/ghimire.aniz"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/anish-ghimire-4b872715a/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+<a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 
+*************
+
+From [anishghimire603](https://github.com/anishghimire603)
+
+#### Thank You 🙏🏼
