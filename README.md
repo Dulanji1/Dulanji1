@@ -53,15 +53,10 @@
 <a href="mddulanjicooray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mddulanjicooray@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-- 📫 How to reach me:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href = "https://www.instagram.com"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/dulanji-cooray-a93747198/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<a href = "mddulanjicooray@gmail.com"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Email </a>
 
 *************
 
-From [anishghimire603](https://github.com/anishghimire603)
+From [Dulanji1](https://github.com/Dulanji1)
 
-#### Thank You 🙏🏼
+
