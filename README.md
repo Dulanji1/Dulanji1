@@ -8,8 +8,7 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Full-Stack Development,Robotic and Artificial Intelligence.
 - 👯 &nbsp; I’m looking to collaborate on Open-source Projects
-- ✍️ &nbsp; I do Blog Writing as hobbies. You can vist and see best-tech-news-blog.blogspot.com![image](https://user-images.githubusercontent.com/53072834/117928684-83b28080-b319-11eb-8b19-7cd97e1d338a.png)
-
+- ✍️ &nbsp; I do Blog Writing as hobbies. You can vist and see best-tech-news-blog.blogspot.com
 
 
 
