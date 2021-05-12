@@ -1,6 +1,7 @@
 <h2>Hey 👋🏽, I'm Dulanji Cooray !</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 🔭 &nbsp; I’m currently working on SLIIT Instroctor Allication and Management Project.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Following BSc (Hones) in Software Engineering degree in Sri Lanka Institute of Information Technology(SLIIT) campus Malabe.
