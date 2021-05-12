@@ -38,8 +38,8 @@
 <br/>
 
 <a href="https://github.com/Dulanji1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dulanji1=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanji1=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dulanji1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulanji1" />
 </a>
 
 <br/>
