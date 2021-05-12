@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Followed diploma in “Diploma in COMPUTER STUDIES’’ at SIKSILL Institute of Business   and Technology.
 - 🎓 &nbsp; Fallowed Foundation Course in Human Resources & Management (FCHRM) at Institute for Professional Studies(IPS). 
 - 💼 &nbsp; Working as a Software Enginer - Intern at Sri Lanka Institute of Information Technology(SLIIT) campus Malabe.
-- 🌱 &nbsp; Learning more about Full-Stack Development,Robotic and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Full-Stack Development,Mobile Application Development,Robotic and Artificial Intelligence.
 - 👯 &nbsp; I’m looking to collaborate on Open-source Projects
 - ✍️ &nbsp; I do Blog Writing as hobbies. You can vist and see <a href = "https://best-tech-news-blog.blogspot.com/"> best-tech-news-blog.blogspot.com </a>
 
