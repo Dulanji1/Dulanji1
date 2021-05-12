@@ -1,10 +1,13 @@
-
 <h2> Hey there! I'm Dulanji Cooray</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+Software Engineering Undergraduate at SLIIT | Mineral Resources and Technology Undergraduate at Uwa Wellassa University 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Following BSc (Hones) in Software Engineering degree in Sri Lanka Institute of Information Technology(SLIIT) campus Malabe.
+- 🎓 &nbsp; Following Bachelor of Information Technology Degree in University of Colombo.
+- 🎓 &nbsp; Following MINERAL RESOURCES & TECHNOLOGY Degree progarmme at the faculty of SCIENCE & TECHNOLOGY in Uva Wellassa University of Sri Lanka.
+- 🎓 &nbsp; Followed diploma in “Diploma in COMPUTER STUDIES’’ at SIKSILL Institute of Business   and Technology.
+- 🎓 &nbsp; Fallowed Foundation Course in Human Resources & Management (FCHRM) at Institute for Professional Studies(IPS). 
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Full-Stack Development,Robotic and Artificial Intelligence.
 - 👯 &nbsp; I’m looking to collaborate on Open-source Projects
