@@ -9,20 +9,7 @@
 - 🌱 &nbsp; Learning more about Full-Stack Development,Robotic and Artificial Intelligence.
 - 👯 &nbsp; I’m looking to collaborate on Open-source Projects
 - ✍️ &nbsp; I do Blog Writing as hobbies. You can vist and see <a href = "https://best-tech-news-blog.blogspot.com/"> best-tech-news-blog.blogspot.com </a>
-
-
-
-
-
-
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Anish Ghimire from Nepal 🇳🇵.
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science and Information Technology(Bsc.CSIT).
-- 🌱 I’m currently learning Full-Stack Development, 3D modeling, ML and IOT.
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Web, 3D, Ml & IOT Technologies.
-
-
-
+- 💬 &nbsp; Ask me about Java, Jsp, Servlet, MySQL.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
