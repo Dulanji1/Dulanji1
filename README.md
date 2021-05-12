@@ -1,9 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-
-
-<h2> Hey there! I'm Dulanji Cooray</h2>
+<h2> 👋 Hey there! I'm Dulanji Cooray</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -17,7 +14,7 @@
 - 🌱 &nbsp; Learning more about Full-Stack Development,Robotic and Artificial Intelligence.
 - 👯 &nbsp; I’m looking to collaborate on Open-source Projects
 - ✍️ &nbsp; I do Blog Writing as hobbies. You can vist and see <a href = "https://best-tech-news-blog.blogspot.com/"> best-tech-news-blog.blogspot.com </a>
-- 💬 &nbsp; Ask me about Java, Jsp, Servlet, MySQL.
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
