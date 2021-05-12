@@ -1,9 +1,7 @@
-
-
-<h2> 👋 Hey there! I'm Dulanji Cooray</h2>
+<h2>Hey 👋🏽, I'm Dulanji Cooray !</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+- 🔭 &nbsp; I’m currently working on SLIIT Instroctor Allication and Management Project.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Following BSc (Hones) in Software Engineering degree in Sri Lanka Institute of Information Technology(SLIIT) campus Malabe.
 - 🎓 &nbsp; Following Bachelor of Information Technology Degree in University of Colombo.
@@ -14,7 +12,7 @@
 - 🌱 &nbsp; Learning more about Full-Stack Development,Mobile Application Development,Robotic and Artificial Intelligence.
 - 👯 &nbsp; I’m looking to collaborate on Open-source Projects
 - ✍️ &nbsp; I do Blog Writing as hobbies. You can vist and see <a href = "https://best-tech-news-blog.blogspot.com/"> best-tech-news-blog.blogspot.com </a>
-
+- 💬 &nbsp; Ask me about Java based technolgies,ReactJs Iam happy to help
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
