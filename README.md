@@ -2,10 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m currently working on SLIIT Instroctor Allication and Management Project.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Following BSc (Hones) in Software Engineering degree in Sri Lanka Institute of Information Technology(SLIIT) campus Malabe.
-- 🎓 &nbsp; Following Bachelor of Information Technology Degree in University of Colombo.
+- 🎓 &nbsp; BSc (Hons) in Information Technology Specialising in Software Engineering - Sri Lanka Institute of Information Technology (SLIIT),LK
+- 🎓 &nbsp; Diploma in Computer Studies - SIKSILL Institute of Business and Technology (Saegis Campus), Lk
 - 🎓 &nbsp; Following MINERAL RESOURCES & TECHNOLOGY Degree progarmme at the faculty of SCIENCE & TECHNOLOGY in Uva Wellassa University of Sri Lanka.
 - 🎓 &nbsp; Followed diploma in “Diploma in COMPUTER STUDIES’’ at SIKSILL Institute of Business   and Technology.
 - 🎓 &nbsp; Fallowed Foundation Course in Human Resources & Management (FCHRM) at Institute for Professional Studies(IPS). 
